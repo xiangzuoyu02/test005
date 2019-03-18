@@ -26,6 +26,7 @@ public class testLoginAndLogout {
         System.out.println(subject.isAuthenticated());
         subject.login(token);
         System.out.println(subject.isAuthenticated());
+        System.out.println("shaiz");
 
     }
 
